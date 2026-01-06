@@ -1,0 +1,8 @@
+{
+  "name": "23 AI",
+  "description": "A powerful AI companion for chatting, image generation, and creative tasks, featuring deep theme customization and voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
